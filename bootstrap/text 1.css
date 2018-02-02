@@ -1,0 +1,21 @@
+body{background-image: url();
+	background-size: 100%;background-repeat: no-repeat;}
+	.xd{text-align:right;width: 30%;height: 10px;float: right;display: inline;}
+	li{display:inline;}
+	.cd{text-align: left;width: 70%;height: 10px;float: left;}
+.hex{text-align: center;height: 500px;background-image: url(Cats-Cyborgs-Artwork-New-Hd-Wallpaper-.jpg);background-repeat: no-repeat;background-image: 100%}
+.vx{text-align: center;height:200px;width: 50%;margin: 0 auto;}
+#mox{display: block;border:2px black solid;}
+.tf{text-align: center;
+	float:left;
+	margin: 0 auto;
+	width: 50%;
+	background-color: blue}
+.gh{text-align: center;
+	float:right;
+	margin: 0 auto;
+	width: 50%;
+	background-color: grey}
+footer{background-color:yellow;}
+#vb{display: block;border:1px black solid;}
+#bc{display: block;border:1px black solid;}
